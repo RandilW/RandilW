@@ -54,13 +54,13 @@ AI-powered document chat platform transforming PDFs into interactive conversatio
 Professor recommendation platform with personalized matching.
 `Next.js` `Flask` `Python` `Pandas`
 
+### [PII Data RAG Pipeline](https://github.com/RandilW/pii-rag-pipeline)
+Enterprise RAG pipeline processing 5TB+ sensitive data with vector embeddings.
+`Python` `Langchain` `Pinecone` `OpenAI` `LLM`
+
 ### [Brain Tumor Detection System](https://github.com/RandilW/)
 YOLOv10-based medical imaging system for tumor detection with transfer learning.
 `Python` `TensorFlow` `PyTorch` `ImageNet` `YOLOv10`
-
-### [PII Data RAG Pipeline](https://github.com/RandilW/)
-Enterprise RAG pipeline processing 5TB+ sensitive data with vector embeddings.
-`Python` `Langchain` `Pinecone` `OpenAI` `LLM`
 
 ---
 <div align="center">
